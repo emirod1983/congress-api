@@ -1,0 +1,2552 @@
+[
+  {
+    "diputado_apellido": "Acevedo",
+    "diputado_nombre": "Sergio Edgardo",
+    "diputdo_sexo": "M",
+    "distrito": "SANTA CRUZ",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "SER - SOMOS ENERGIA PARA RENOVAR"
+  },
+  {
+    "diputado_apellido": "Agost Carre\u00f1o",
+    "diputado_nombre": "Oscar",
+    "diputdo_sexo": "M",
+    "distrito": "CORDOBA",
+    "mandato": "2021-2025",
+    "fecha_jura": "23\/08\/2023",
+    "fecha_inicio": "23\/08\/2023",
+    "bloque": "CAMBIO FEDERAL"
+  },
+  {
+    "diputado_apellido": "Aguirre",
+    "diputado_nombre": "Hilda",
+    "diputdo_sexo": "F",
+    "distrito": "LA RIOJA",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Aguirre",
+    "diputado_nombre": "Manuel Ignacio",
+    "diputdo_sexo": "M",
+    "distrito": "CORRIENTES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "Ajmechet",
+    "diputado_nombre": "Sabrina",
+    "diputdo_sexo": "F",
+    "distrito": "CIUDAD DE BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Alianiello",
+    "diputado_nombre": "Eugenia",
+    "diputdo_sexo": "F",
+    "distrito": "CHUBUT",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Allende",
+    "diputado_nombre": "Walberto",
+    "diputdo_sexo": "M",
+    "distrito": "SAN JUAN",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Almir\u00f3n",
+    "diputado_nombre": "Lisandro",
+    "diputdo_sexo": "M",
+    "distrito": "CORRIENTES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "LA LIBERTAD AVANZA"
+  },
+  {
+    "diputado_apellido": "Alonso",
+    "diputado_nombre": "Constanza Mar\u00eda",
+    "diputdo_sexo": "F",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Ansaloni",
+    "diputado_nombre": "Pablo",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "LA LIBERTAD AVANZA"
+  },
+  {
+    "diputado_apellido": "Antola",
+    "diputado_nombre": "Marcela",
+    "diputdo_sexo": "F",
+    "distrito": "ENTRE RIOS",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "Arabia",
+    "diputado_nombre": "Dami\u00e1n",
+    "diputdo_sexo": "M",
+    "distrito": "CIUDAD DE BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Arancibia Rodr\u00edguez",
+    "diputado_nombre": "Alberto Gustavo",
+    "diputdo_sexo": "M",
+    "distrito": "SAN LUIS",
+    "mandato": "2021-2025",
+    "fecha_jura": "02\/11\/2023",
+    "fecha_inicio": "02\/11\/2023",
+    "bloque": "DEM\u00d3CRATA"
+  },
+  {
+    "diputado_apellido": "Araujo",
+    "diputado_nombre": "Mar\u00eda Fernanda",
+    "diputdo_sexo": "F",
+    "distrito": "CIUDAD DE BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "LA LIBERTAD AVANZA"
+  },
+  {
+    "diputado_apellido": "Araujo Hern\u00e1ndez",
+    "diputado_nombre": "Jorge Neri",
+    "diputdo_sexo": "M",
+    "distrito": "TIERRA DEL FUEGO",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Ardohain",
+    "diputado_nombre": "Mart\u00edn",
+    "diputdo_sexo": "M",
+    "distrito": "LA PAMPA",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Arjol",
+    "diputado_nombre": "Mart\u00edn",
+    "diputdo_sexo": "M",
+    "distrito": "MISIONES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "Arrieta",
+    "diputado_nombre": "Lourdes Micaela",
+    "diputdo_sexo": "F",
+    "distrito": "MENDOZA",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "LA LIBERTAD AVANZA"
+  },
+  {
+    "diputado_apellido": "Arroyo",
+    "diputado_nombre": "Daniel",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Arrua",
+    "diputado_nombre": "Alberto",
+    "diputdo_sexo": "M",
+    "distrito": "MISIONES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "INNOVACI\u00d3N FEDERAL"
+  },
+  {
+    "diputado_apellido": "Aubone",
+    "diputado_nombre": "Ana Fabiola",
+    "diputdo_sexo": "F",
+    "distrito": "SAN JUAN",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Aveiro",
+    "diputado_nombre": "Martin",
+    "diputdo_sexo": "M",
+    "distrito": "MENDOZA",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Avico",
+    "diputado_nombre": "Bel\u00e9n",
+    "diputdo_sexo": "F",
+    "distrito": "CORDOBA",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Avila",
+    "diputado_nombre": "Fernanda",
+    "diputdo_sexo": "F",
+    "distrito": "CATAMARCA",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Avila",
+    "diputado_nombre": "Jorge Antonio",
+    "diputdo_sexo": "M",
+    "distrito": "CHUBUT",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "CAMBIO FEDERAL"
+  },
+  {
+    "diputado_apellido": "Bachey",
+    "diputado_nombre": "Karina Ethel",
+    "diputdo_sexo": "F",
+    "distrito": "SAN LUIS",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Baldassi",
+    "diputado_nombre": "H\u00e9ctor W.",
+    "diputdo_sexo": "M",
+    "distrito": "CORDOBA",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Banfi",
+    "diputado_nombre": "Karina",
+    "diputdo_sexo": "F",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "Barletta",
+    "diputado_nombre": "Mario",
+    "diputdo_sexo": "M",
+    "distrito": "SANTA FE",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "Basterra",
+    "diputado_nombre": "Luis Eugenio",
+    "diputdo_sexo": "M",
+    "distrito": "FORMOSA",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Benedetti",
+    "diputado_nombre": "Atilio",
+    "diputdo_sexo": "M",
+    "distrito": "ENTRE RIOS",
+    "mandato": "2021-2025",
+    "fecha_jura": "05\/07\/2023",
+    "fecha_inicio": "05\/07\/2023",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "Benedit",
+    "diputado_nombre": "Beltr\u00e1n",
+    "diputdo_sexo": "M",
+    "distrito": "ENTRE RIOS",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "LA LIBERTAD AVANZA"
+  },
+  {
+    "diputado_apellido": "Benegas Lynch",
+    "diputado_nombre": "Bertie",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "LA LIBERTAD AVANZA"
+  },
+  {
+    "diputado_apellido": "Bermejo",
+    "diputado_nombre": "Adolfo",
+    "diputdo_sexo": "M",
+    "distrito": "MENDOZA",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Bertoldi",
+    "diputado_nombre": "Tanya",
+    "diputdo_sexo": "F",
+    "distrito": "NEUQUEN",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Besana",
+    "diputado_nombre": "Gabriela",
+    "diputdo_sexo": "F",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Bianchetti",
+    "diputado_nombre": "Emmanuel",
+    "diputdo_sexo": "M",
+    "distrito": "MISIONES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Bonacci",
+    "diputado_nombre": "Roc\u00edo",
+    "diputdo_sexo": "F",
+    "distrito": "SANTA FE",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "LA LIBERTAD AVANZA"
+  },
+  {
+    "diputado_apellido": "Bongiovanni",
+    "diputado_nombre": "Alejandro",
+    "diputdo_sexo": "M",
+    "distrito": "SANTA FE",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Bordet",
+    "diputado_nombre": "Gustavo",
+    "diputdo_sexo": "M",
+    "distrito": "ENTRE RIOS",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Bornoroni",
+    "diputado_nombre": "Gabriel",
+    "diputdo_sexo": "M",
+    "distrito": "CORDOBA",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "LA LIBERTAD AVANZA"
+  },
+  {
+    "diputado_apellido": "Borrego",
+    "diputado_nombre": "Victoria",
+    "diputdo_sexo": "F",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "COALICI\u00d3N C\u00cdVICA"
+  },
+  {
+    "diputado_apellido": "Brambilla",
+    "diputado_nombre": "Sof\u00eda",
+    "diputdo_sexo": "F",
+    "distrito": "CORRIENTES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Bregman",
+    "diputado_nombre": "Myriam",
+    "diputdo_sexo": "F",
+    "distrito": "CIUDAD DE BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "PTS - FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD"
+  },
+  {
+    "diputado_apellido": "Brouwer De Koning",
+    "diputado_nombre": "Gabriela",
+    "diputdo_sexo": "F",
+    "distrito": "CORDOBA",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "Br\u00fcgge",
+    "diputado_nombre": "Juan Fernando",
+    "diputdo_sexo": "M",
+    "distrito": "CORDOBA",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "HACEMOS POR NUESTRO PA\u00cdS"
+  },
+  {
+    "diputado_apellido": "Cafiero",
+    "diputado_nombre": "Santiago",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Calletti",
+    "diputado_nombre": "Pamela",
+    "diputdo_sexo": "F",
+    "distrito": "SALTA",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "INNOVACI\u00d3N FEDERAL"
+  },
+  {
+    "diputado_apellido": "Campagnoli",
+    "diputado_nombre": "Marcela",
+    "diputdo_sexo": "F",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "COALICI\u00d3N C\u00cdVICA"
+  },
+  {
+    "diputado_apellido": "Campero",
+    "diputado_nombre": "Mariano",
+    "diputdo_sexo": "M",
+    "distrito": "TUCUMAN",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "Campitelli",
+    "diputado_nombre": "Celia",
+    "diputdo_sexo": "F",
+    "distrito": "SANTIAGO DEL ESTERO",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Capozzi",
+    "diputado_nombre": "Sergio Eduardo",
+    "diputdo_sexo": "M",
+    "distrito": "RIO NEGRO",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Carbajal",
+    "diputado_nombre": "Fernando",
+    "diputdo_sexo": "M",
+    "distrito": "FORMOSA",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "Carignano",
+    "diputado_nombre": "Florencia",
+    "diputdo_sexo": "F",
+    "distrito": "SANTA FE",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Carrizo",
+    "diputado_nombre": "Ana Carla",
+    "diputdo_sexo": "F",
+    "distrito": "CIUDAD DE BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "Carrizo",
+    "diputado_nombre": "Soledad",
+    "diputdo_sexo": "F",
+    "distrito": "CORDOBA",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "Carro",
+    "diputado_nombre": "Pablo",
+    "diputdo_sexo": "M",
+    "distrito": "CORDOBA",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Casas",
+    "diputado_nombre": "Sergio Guillermo",
+    "diputdo_sexo": "M",
+    "distrito": "LA RIOJA",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Castagneto",
+    "diputado_nombre": "Carlos Daniel",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Castillo",
+    "diputado_nombre": "Christian",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "PTS - FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD"
+  },
+  {
+    "diputado_apellido": "Cervi",
+    "diputado_nombre": "Pablo",
+    "diputdo_sexo": "M",
+    "distrito": "NEUQUEN",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "Chaher",
+    "diputado_nombre": "Leila",
+    "diputdo_sexo": "F",
+    "distrito": "JUJUY",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Chica",
+    "diputado_nombre": "Jorge",
+    "diputdo_sexo": "M",
+    "distrito": "SAN JUAN",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Chomiak",
+    "diputado_nombre": "Mar\u00eda Luisa",
+    "diputdo_sexo": "F",
+    "distrito": "CHACO",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Chumpitaz",
+    "diputado_nombre": "Gabriel Felipe",
+    "diputdo_sexo": "M",
+    "distrito": "SANTA FE",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Cipolini",
+    "diputado_nombre": "Gerardo",
+    "diputdo_sexo": "M",
+    "distrito": "CHACO",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "Cisneros",
+    "diputado_nombre": "Carlos",
+    "diputdo_sexo": "M",
+    "distrito": "TUCUMAN",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Cobos",
+    "diputado_nombre": "Julio",
+    "diputdo_sexo": "M",
+    "distrito": "MENDOZA",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "Coletta",
+    "diputado_nombre": "Mariela",
+    "diputdo_sexo": "F",
+    "distrito": "CIUDAD DE BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "Coli",
+    "diputado_nombre": "Marcela",
+    "diputdo_sexo": "F",
+    "distrito": "LA PAMPA",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "Correa Llano",
+    "diputado_nombre": "Facundo",
+    "diputdo_sexo": "M",
+    "distrito": "MENDOZA",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "LA LIBERTAD AVANZA"
+  },
+  {
+    "diputado_apellido": "Daives",
+    "diputado_nombre": "Ricardo",
+    "diputdo_sexo": "M",
+    "distrito": "SANTIAGO DEL ESTERO",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "D'alessandro",
+    "diputado_nombre": "Carlos",
+    "diputdo_sexo": "M",
+    "distrito": "SAN LUIS",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "LA LIBERTAD AVANZA"
+  },
+  {
+    "diputado_apellido": "de la Sota",
+    "diputado_nombre": "Natalia",
+    "diputdo_sexo": "F",
+    "distrito": "CORDOBA",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "HACEMOS POR NUESTRO PA\u00cdS"
+  },
+  {
+    "diputado_apellido": "de Loredo",
+    "diputado_nombre": "Rodrigo",
+    "diputdo_sexo": "M",
+    "distrito": "CORDOBA",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "De Sensi",
+    "diputado_nombre": "Mar\u00eda Florencia",
+    "diputdo_sexo": "F",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Del Ca\u00f1o",
+    "diputado_nombre": "Nicol\u00e1s",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "PTS - FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD"
+  },
+  {
+    "diputado_apellido": "Del Pl\u00e1",
+    "diputado_nombre": "Romina",
+    "diputdo_sexo": "F",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "PARTIDO OBRERO \u2013 FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD"
+  },
+  {
+    "diputado_apellido": "Diez",
+    "diputado_nombre": "Romina",
+    "diputdo_sexo": "F",
+    "distrito": "SANTA FE",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "LA LIBERTAD AVANZA"
+  },
+  {
+    "diputado_apellido": "Domingo",
+    "diputado_nombre": "Agust\u00edn",
+    "diputdo_sexo": "M",
+    "distrito": "RIO NEGRO",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "INNOVACI\u00d3N FEDERAL"
+  },
+  {
+    "diputado_apellido": "Emma",
+    "diputado_nombre": "Nicol\u00e1s",
+    "diputdo_sexo": "M",
+    "distrito": "CIUDAD DE BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "LA LIBERTAD AVANZA"
+  },
+  {
+    "diputado_apellido": "Espert",
+    "diputado_nombre": "Jos\u00e9 Luis",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "AVANZA LIBERTAD"
+  },
+  {
+    "diputado_apellido": "Est\u00e9vez",
+    "diputado_nombre": "Gabriela",
+    "diputdo_sexo": "F",
+    "distrito": "CORDOBA",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Estrada",
+    "diputado_nombre": "Emiliano",
+    "diputdo_sexo": "M",
+    "distrito": "SALTA",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Falcone",
+    "diputado_nombre": "Eduardo",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "LA LIBERTAD AVANZA"
+  },
+  {
+    "diputado_apellido": "Fein",
+    "diputado_nombre": "M\u00f3nica",
+    "diputdo_sexo": "F",
+    "distrito": "SANTA FE",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "HACEMOS POR NUESTRO PA\u00cdS"
+  },
+  {
+    "diputado_apellido": "Fern\u00e1ndez",
+    "diputado_nombre": "Agustin",
+    "diputdo_sexo": "M",
+    "distrito": "TUCUMAN",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Fern\u00e1ndez",
+    "diputado_nombre": "Carlos Alberto",
+    "diputdo_sexo": "M",
+    "distrito": "MISIONES",
+    "mandato": "2021-2025",
+    "fecha_jura": "16\/12\/2021",
+    "fecha_inicio": "16\/12\/2021",
+    "bloque": "INNOVACI\u00d3N FEDERAL"
+  },
+  {
+    "diputado_apellido": "Fern\u00e1ndez",
+    "diputado_nombre": "Elia Marina",
+    "diputdo_sexo": "F",
+    "distrito": "TUCUMAN",
+    "mandato": "2021-2025",
+    "fecha_jura": "02\/11\/2023",
+    "fecha_inicio": "02\/11\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Fern\u00e1ndez Molero",
+    "diputado_nombre": "Daiana",
+    "diputdo_sexo": "F",
+    "distrito": "CIUDAD DE BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Fern\u00e1ndez Patri",
+    "diputado_nombre": "Ramiro",
+    "diputdo_sexo": "M",
+    "distrito": "FORMOSA",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Ferraro",
+    "diputado_nombre": "Maximiliano",
+    "diputdo_sexo": "M",
+    "distrito": "CIUDAD DE BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "COALICI\u00d3N C\u00cdVICA"
+  },
+  {
+    "diputado_apellido": "Figueroa Casas",
+    "diputado_nombre": "Germana",
+    "diputdo_sexo": "F",
+    "distrito": "SANTA FE",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Finocchiaro",
+    "diputado_nombre": "Alejandro",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Frade",
+    "diputado_nombre": "M\u00f3nica",
+    "diputdo_sexo": "F",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "COALICI\u00d3N C\u00cdVICA"
+  },
+  {
+    "diputado_apellido": "Freites",
+    "diputado_nombre": "Andrea",
+    "diputdo_sexo": "F",
+    "distrito": "TIERRA DEL FUEGO",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Gaillard",
+    "diputado_nombre": "Ana Carolina",
+    "diputdo_sexo": "F",
+    "distrito": "ENTRE RIOS",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Galimberti",
+    "diputado_nombre": "Pedro Jorge",
+    "diputdo_sexo": "M",
+    "distrito": "ENTRE RIOS",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "Garc\u00eda",
+    "diputado_nombre": "Carlos",
+    "diputdo_sexo": "M",
+    "distrito": "CHACO",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "LA LIBERTAD AVANZA"
+  },
+  {
+    "diputado_apellido": "Garc\u00eda Aresca",
+    "diputado_nombre": "Ignacio",
+    "diputdo_sexo": "M",
+    "distrito": "CORDOBA",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "HACEMOS POR NUESTRO PA\u00cdS"
+  },
+  {
+    "diputado_apellido": "Garrido",
+    "diputado_nombre": "Jos\u00e9 Luis",
+    "diputdo_sexo": "M",
+    "distrito": "SANTA CRUZ",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "POR SANTA CRUZ"
+  },
+  {
+    "diputado_apellido": "Ginocchio",
+    "diputado_nombre": "Silvana Micaela",
+    "diputdo_sexo": "F",
+    "distrito": "CATAMARCA",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Giorgi",
+    "diputado_nombre": "Melina",
+    "diputdo_sexo": "F",
+    "distrito": "SANTA FE",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "Giudici",
+    "diputado_nombre": "Silvana",
+    "diputdo_sexo": "F",
+    "distrito": "CIUDAD DE BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Giuliano",
+    "diputado_nombre": "Diego A.",
+    "diputdo_sexo": "M",
+    "distrito": "SANTA FE",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Glinski",
+    "diputado_nombre": "Jos\u00e9",
+    "diputdo_sexo": "M",
+    "distrito": "CHUBUT",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Goll\u00e1n",
+    "diputado_nombre": "Daniel",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Gomez",
+    "diputado_nombre": "Jos\u00e9",
+    "diputdo_sexo": "M",
+    "distrito": "SANTIAGO DEL ESTERO",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Gonz\u00e1lez",
+    "diputado_nombre": "\u00c1lvaro",
+    "diputdo_sexo": "M",
+    "distrito": "CIUDAD DE BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Gonz\u00e1lez",
+    "diputado_nombre": "Gerardo Gustavo",
+    "diputdo_sexo": "M",
+    "distrito": "FORMOSA",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "LA LIBERTAD AVANZA"
+  },
+  {
+    "diputado_apellido": "Gonz\u00e1lez",
+    "diputado_nombre": "Gustavo Carlos Miguel",
+    "diputdo_sexo": "M",
+    "distrito": "SANTA CRUZ",
+    "mandato": "2021-2025",
+    "fecha_jura": "16\/12\/2021",
+    "fecha_inicio": "16\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Guti\u00e9rrez",
+    "diputado_nombre": "Carlos",
+    "diputdo_sexo": "M",
+    "distrito": "CORDOBA",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "HACEMOS POR NUESTRO PA\u00cdS"
+  },
+  {
+    "diputado_apellido": "Guti\u00e9rrez",
+    "diputado_nombre": "Ramiro",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Hagman",
+    "diputado_nombre": "Itai",
+    "diputdo_sexo": "M",
+    "distrito": "CIUDAD DE BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Heller",
+    "diputado_nombre": "Carlos",
+    "diputdo_sexo": "M",
+    "distrito": "CIUDAD DE BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Herrera",
+    "diputado_nombre": "Bernardo Jos\u00e9",
+    "diputdo_sexo": "M",
+    "distrito": "SANTIAGO DEL ESTERO",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Herrera",
+    "diputado_nombre": "Ricardo",
+    "diputdo_sexo": "M",
+    "distrito": "LA RIOJA",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Huesen",
+    "diputado_nombre": "Gerardo",
+    "diputdo_sexo": "M",
+    "distrito": "TUCUMAN",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "LA LIBERTAD AVANZA"
+  },
+  {
+    "diputado_apellido": "Ianni",
+    "diputado_nombre": "Ana Mar\u00eda",
+    "diputdo_sexo": "F",
+    "distrito": "SANTA CRUZ",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Iba\u00f1ez",
+    "diputado_nombre": "Mar\u00eda Cecilia",
+    "diputdo_sexo": "F",
+    "distrito": "CORDOBA",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "LA LIBERTAD AVANZA"
+  },
+  {
+    "diputado_apellido": "Iglesias",
+    "diputado_nombre": "Fernando Adolfo",
+    "diputdo_sexo": "M",
+    "distrito": "CIUDAD DE BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Iparraguirre",
+    "diputado_nombre": "Rogelio",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Juliano",
+    "diputado_nombre": "Pablo",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "Kirchner",
+    "diputado_nombre": "M\u00e1ximo Carlos",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Klipauka Lewtak",
+    "diputado_nombre": "Florencia",
+    "diputdo_sexo": "F",
+    "distrito": "MISIONES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "CAMBIO FEDERAL"
+  },
+  {
+    "diputado_apellido": "Laspina",
+    "diputado_nombre": "Luciano Andr\u00e9s",
+    "diputdo_sexo": "M",
+    "distrito": "SANTA FE",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Ledesma",
+    "diputado_nombre": "Tom\u00e1s",
+    "diputdo_sexo": "M",
+    "distrito": "ENTRE RIOS",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Leiva",
+    "diputado_nombre": "Aldo",
+    "diputdo_sexo": "M",
+    "distrito": "CHACO",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Lemoine",
+    "diputado_nombre": "Lilia",
+    "diputdo_sexo": "F",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "LA LIBERTAD AVANZA"
+  },
+  {
+    "diputado_apellido": "Litza",
+    "diputado_nombre": "M\u00f3nica",
+    "diputdo_sexo": "F",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Llancafilo",
+    "diputado_nombre": "Osvaldo",
+    "diputdo_sexo": "M",
+    "distrito": "NEUQUEN",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "INNOVACI\u00d3N FEDERAL"
+  },
+  {
+    "diputado_apellido": "Llano",
+    "diputado_nombre": "Mercedes",
+    "diputdo_sexo": "F",
+    "distrito": "MENDOZA",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "LA LIBERTAD AVANZA"
+  },
+  {
+    "diputado_apellido": "Lombardi",
+    "diputado_nombre": "Hern\u00e1n",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "L\u00f3pez",
+    "diputado_nombre": "Juan Manuel",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "COALICI\u00d3N C\u00cdVICA"
+  },
+  {
+    "diputado_apellido": "L\u00f3pez Murphy",
+    "diputado_nombre": "Ricardo Hip\u00f3lito",
+    "diputdo_sexo": "M",
+    "distrito": "CIUDAD DE BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "CAMBIO FEDERAL"
+  },
+  {
+    "diputado_apellido": "L\u00f3pez Rodr\u00edguez",
+    "diputado_nombre": "Dante",
+    "diputdo_sexo": "M",
+    "distrito": "CATAMARCA",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Lospennato",
+    "diputado_nombre": "Silvia",
+    "diputdo_sexo": "F",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Macha",
+    "diputado_nombre": "M\u00f3nica",
+    "diputdo_sexo": "F",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Macyszyn",
+    "diputado_nombre": "Lorena",
+    "diputdo_sexo": "F",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "BUENOS AIRES LIBRE"
+  },
+  {
+    "diputado_apellido": "Manes",
+    "diputado_nombre": "Facundo",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "Manrique",
+    "diputado_nombre": "Mario",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Maquieyra",
+    "diputado_nombre": "Mart\u00edn",
+    "diputdo_sexo": "M",
+    "distrito": "LA PAMPA",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Mar\u00edn",
+    "diputado_nombre": "Varinia Lis",
+    "diputdo_sexo": "F",
+    "distrito": "LA PAMPA",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Marino",
+    "diputado_nombre": "Juan",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "M\u00e1rquez",
+    "diputado_nombre": "Nadia",
+    "diputdo_sexo": "F",
+    "distrito": "NEUQUEN",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "LA LIBERTAD AVANZA"
+  },
+  {
+    "diputado_apellido": "Mart\u00ednez",
+    "diputado_nombre": "\u00c1lvaro",
+    "diputdo_sexo": "M",
+    "distrito": "MENDOZA",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "LA UNI\u00d3N MENDOCINA"
+  },
+  {
+    "diputado_apellido": "Mart\u00ednez",
+    "diputado_nombre": "Germ\u00e1n Pedro",
+    "diputdo_sexo": "M",
+    "distrito": "SANTA FE",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Marziotta",
+    "diputado_nombre": "Gisela",
+    "diputdo_sexo": "F",
+    "distrito": "CIUDAD DE BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Massot",
+    "diputado_nombre": "Nicol\u00e1s",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "CAMBIO FEDERAL"
+  },
+  {
+    "diputado_apellido": "Mastaler",
+    "diputado_nombre": "Magal\u00ed",
+    "diputdo_sexo": "F",
+    "distrito": "SANTA FE",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Mayoraz",
+    "diputado_nombre": "Nicol\u00e1s",
+    "diputdo_sexo": "M",
+    "distrito": "SANTA FE",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "LA LIBERTAD AVANZA"
+  },
+  {
+    "diputado_apellido": "Medina",
+    "diputado_nombre": "Gladys",
+    "diputdo_sexo": "F",
+    "distrito": "TUCUMAN",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Menem",
+    "diputado_nombre": "Mart\u00edn",
+    "diputdo_sexo": "M",
+    "distrito": "LA RIOJA",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "LA LIBERTAD AVANZA"
+  },
+  {
+    "diputado_apellido": "Milman",
+    "diputado_nombre": "Gerardo",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Mirabella",
+    "diputado_nombre": "Roberto",
+    "diputdo_sexo": "M",
+    "distrito": "SANTA FE",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Molle",
+    "diputado_nombre": "Mat\u00edas",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Montenegro",
+    "diputado_nombre": "Guillermo",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "LA LIBERTAD AVANZA"
+  },
+  {
+    "diputado_apellido": "Monti",
+    "diputado_nombre": "Francisco",
+    "diputdo_sexo": "M",
+    "distrito": "CATAMARCA",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "Montoto",
+    "diputado_nombre": "Mar\u00eda Luisa",
+    "diputdo_sexo": "F",
+    "distrito": "SANTIAGO DEL ESTERO",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Monz\u00f3",
+    "diputado_nombre": "Emilio",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "CAMBIO FEDERAL"
+  },
+  {
+    "diputado_apellido": "Monz\u00f3n",
+    "diputado_nombre": "Roxana",
+    "diputdo_sexo": "F",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Moran",
+    "diputado_nombre": "Micaela",
+    "diputdo_sexo": "F",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "12\/10\/2022",
+    "fecha_inicio": "12\/10\/2022",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Morchio",
+    "diputado_nombre": "Francisco",
+    "diputdo_sexo": "M",
+    "distrito": "ENTRE RIOS",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "CAMBIO FEDERAL"
+  },
+  {
+    "diputado_apellido": "Moreau",
+    "diputado_nombre": "Cecilia",
+    "diputdo_sexo": "F",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Moreau",
+    "diputado_nombre": "Leopoldo",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Moreno",
+    "diputado_nombre": "Mar\u00eda De Los \u00c1ngeles",
+    "diputdo_sexo": "F",
+    "distrito": "SAN JUAN",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "Moreno Ovalle",
+    "diputado_nombre": "Julio",
+    "diputdo_sexo": "M",
+    "distrito": "SALTA",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "AHORA PATRIA"
+  },
+  {
+    "diputado_apellido": "Moyano",
+    "diputado_nombre": "Nilda",
+    "diputdo_sexo": "F",
+    "distrito": "SANTIAGO DEL ESTERO",
+    "mandato": "2021-2025",
+    "fecha_jura": "16\/12\/2021",
+    "fecha_inicio": "16\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Neder",
+    "diputado_nombre": "Estela Mary",
+    "diputdo_sexo": "F",
+    "distrito": "SANTIAGO DEL ESTERO",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Nieri",
+    "diputado_nombre": "Lisandro",
+    "diputdo_sexo": "M",
+    "distrito": "MENDOZA",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "N\u00f3blega",
+    "diputado_nombre": "Sebasti\u00e1n",
+    "diputdo_sexo": "M",
+    "distrito": "CATAMARCA",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Nu\u00f1ez",
+    "diputado_nombre": "Jos\u00e9",
+    "diputdo_sexo": "M",
+    "distrito": "SANTA FE",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Oliveto Lago",
+    "diputado_nombre": "Paula",
+    "diputdo_sexo": "F",
+    "distrito": "CIUDAD DE BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "COALICI\u00d3N C\u00cdVICA"
+  },
+  {
+    "diputado_apellido": "Omodeo",
+    "diputado_nombre": "Paula",
+    "diputdo_sexo": "F",
+    "distrito": "TUCUMAN",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "CREO"
+  },
+  {
+    "diputado_apellido": "Orozco",
+    "diputado_nombre": "Emilia",
+    "diputdo_sexo": "F",
+    "distrito": "SALTA",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "AHORA PATRIA"
+  },
+  {
+    "diputado_apellido": "Osuna",
+    "diputado_nombre": "Blanca In\u00e9s",
+    "diputdo_sexo": "F",
+    "distrito": "ENTRE RIOS",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Outes",
+    "diputado_nombre": "Pablo",
+    "diputdo_sexo": "M",
+    "distrito": "SALTA",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "INNOVACI\u00d3N FEDERAL"
+  },
+  {
+    "diputado_apellido": "Pagano",
+    "diputado_nombre": "Marcela Marina",
+    "diputdo_sexo": "F",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "LA LIBERTAD AVANZA"
+  },
+  {
+    "diputado_apellido": "Palazzo",
+    "diputado_nombre": "Sergio Omar",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Paponet",
+    "diputado_nombre": "Liliana",
+    "diputdo_sexo": "F",
+    "distrito": "MENDOZA",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Parola",
+    "diputado_nombre": "Mar\u00eda Graciela",
+    "diputdo_sexo": "F",
+    "distrito": "FORMOSA",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Passo",
+    "diputado_nombre": "Marcela Fabiana",
+    "diputdo_sexo": "F",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Pauli",
+    "diputado_nombre": "Santiago",
+    "diputdo_sexo": "M",
+    "distrito": "TIERRA DEL FUEGO",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "LA LIBERTAD AVANZA"
+  },
+  {
+    "diputado_apellido": "Paul\u00f3n",
+    "diputado_nombre": "Esteban",
+    "diputdo_sexo": "M",
+    "distrito": "SANTA FE",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "HACEMOS POR NUESTRO PA\u00cdS"
+  },
+  {
+    "diputado_apellido": "Pedrali",
+    "diputado_nombre": "Gabriela",
+    "diputdo_sexo": "F",
+    "distrito": "LA RIOJA",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Pedrini",
+    "diputado_nombre": "Juan Manuel",
+    "diputdo_sexo": "M",
+    "distrito": "CHACO",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Peluc",
+    "diputado_nombre": "Jos\u00e9",
+    "diputdo_sexo": "M",
+    "distrito": "SAN JUAN",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "LA LIBERTAD AVANZA"
+  },
+  {
+    "diputado_apellido": "Penacca",
+    "diputado_nombre": "Paula Andrea",
+    "diputdo_sexo": "F",
+    "distrito": "CIUDAD DE BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Pereyra",
+    "diputado_nombre": "Julio",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Picat",
+    "diputado_nombre": "Luis Albino",
+    "diputdo_sexo": "M",
+    "distrito": "CORDOBA",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "Pichetto",
+    "diputado_nombre": "Miguel \u00c1ngel",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "CAMBIO FEDERAL"
+  },
+  {
+    "diputado_apellido": "Pic\u00f3n Mart\u00ednez",
+    "diputado_nombre": "Nancy Viviana",
+    "diputdo_sexo": "F",
+    "distrito": "SAN JUAN",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "PRODUCCION Y TRABAJO"
+  },
+  {
+    "diputado_apellido": "P\u00edparo",
+    "diputado_nombre": "Carolina",
+    "diputdo_sexo": "F",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "BUENOS AIRES LIBRE"
+  },
+  {
+    "diputado_apellido": "Pokoik",
+    "diputado_nombre": "Lorena",
+    "diputdo_sexo": "F",
+    "distrito": "CIUDAD DE BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Polini",
+    "diputado_nombre": "Juan Carlos",
+    "diputdo_sexo": "M",
+    "distrito": "CHACO",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "Ponce",
+    "diputado_nombre": "Mar\u00eda Celeste",
+    "diputdo_sexo": "F",
+    "distrito": "CORDOBA",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "LA LIBERTAD AVANZA"
+  },
+  {
+    "diputado_apellido": "Potenza",
+    "diputado_nombre": "Luciana",
+    "diputdo_sexo": "F",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Propato",
+    "diputado_nombre": "Agustina Lucrecia",
+    "diputdo_sexo": "F",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Quetglas",
+    "diputado_nombre": "Fabio Jos\u00e9",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "Quintar",
+    "diputado_nombre": "Manuel",
+    "diputdo_sexo": "M",
+    "distrito": "JUJUY",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "LA LIBERTAD AVANZA"
+  },
+  {
+    "diputado_apellido": "Quiroz",
+    "diputado_nombre": "Maril\u00fa",
+    "diputdo_sexo": "F",
+    "distrito": "CHACO",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Randazzo",
+    "diputado_nombre": "Florencio",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "HACEMOS POR NUESTRO PA\u00cdS"
+  },
+  {
+    "diputado_apellido": "Rauschenberger",
+    "diputado_nombre": "Ariel",
+    "diputdo_sexo": "M",
+    "distrito": "LA PAMPA",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Razzini",
+    "diputado_nombre": "Veronica",
+    "diputdo_sexo": "F",
+    "distrito": "SANTA FE",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Reyes",
+    "diputado_nombre": "Roxana",
+    "diputdo_sexo": "F",
+    "distrito": "SANTA CRUZ",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "Ritondo",
+    "diputado_nombre": "Cristian A.",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Rizzotti",
+    "diputado_nombre": "Jorge",
+    "diputdo_sexo": "M",
+    "distrito": "JUJUY",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "Rodr\u00edguez Machado",
+    "diputado_nombre": "Laura",
+    "diputdo_sexo": "F",
+    "distrito": "CORDOBA",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Romero",
+    "diputado_nombre": "Ana Clara",
+    "diputdo_sexo": "F",
+    "distrito": "CHUBUT",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Romero",
+    "diputado_nombre": "Jorge Antonio",
+    "diputdo_sexo": "M",
+    "distrito": "CORRIENTES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Ru\u00edz",
+    "diputado_nombre": "Yamila",
+    "diputdo_sexo": "F",
+    "distrito": "MISIONES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "INNOVACI\u00d3N FEDERAL"
+  },
+  {
+    "diputado_apellido": "S\u00e1nchez",
+    "diputado_nombre": "Roberto Antonio",
+    "diputdo_sexo": "M",
+    "distrito": "TUCUMAN",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "Sand",
+    "diputado_nombre": "Nancy",
+    "diputdo_sexo": "F",
+    "distrito": "CORRIENTES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Santill\u00e1n Ju\u00e1rez Brahim",
+    "diputado_nombre": "Juliana",
+    "diputdo_sexo": "F",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "LA LIBERTAD AVANZA"
+  },
+  {
+    "diputado_apellido": "Santilli",
+    "diputado_nombre": "Diego",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Santoro",
+    "diputado_nombre": "Leandro",
+    "diputdo_sexo": "M",
+    "distrito": "CIUDAD DE BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Santurio",
+    "diputado_nombre": "Santiago",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "LA LIBERTAD AVANZA"
+  },
+  {
+    "diputado_apellido": "Sarapura",
+    "diputado_nombre": "Natalia Silvina",
+    "diputdo_sexo": "F",
+    "distrito": "JUJUY",
+    "mandato": "2021-2025",
+    "fecha_jura": "13\/06\/2023",
+    "fecha_inicio": "13\/06\/2023",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "Selva",
+    "diputado_nombre": "Sabrina",
+    "diputdo_sexo": "F",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Siley",
+    "diputado_nombre": "Vanesa Raquel",
+    "diputdo_sexo": "F",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Snopek",
+    "diputado_nombre": "Guillermo",
+    "diputdo_sexo": "M",
+    "distrito": "JUJUY",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "JUSTICIALISTA"
+  },
+  {
+    "diputado_apellido": "Soria",
+    "diputado_nombre": "Mart\u00edn",
+    "diputdo_sexo": "M",
+    "distrito": "RIO NEGRO",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Sotolano",
+    "diputado_nombre": "Mar\u00eda",
+    "diputdo_sexo": "F",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Stefani",
+    "diputado_nombre": "H\u00e9ctor Antonio",
+    "diputdo_sexo": "M",
+    "distrito": "TIERRA DEL FUEGO",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Stolbizer",
+    "diputado_nombre": "Margarita",
+    "diputdo_sexo": "F",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "CAMBIO FEDERAL"
+  },
+  {
+    "diputado_apellido": "Strada",
+    "diputado_nombre": "Julia",
+    "diputdo_sexo": "F",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Tailhade",
+    "diputado_nombre": "Rodolfo",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Tavela",
+    "diputado_nombre": "Danya",
+    "diputdo_sexo": "F",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "Tetaz",
+    "diputado_nombre": "Martin Alberto",
+    "diputdo_sexo": "M",
+    "distrito": "CIUDAD DE BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "Todero",
+    "diputado_nombre": "Pablo",
+    "diputdo_sexo": "M",
+    "distrito": "NEUQUEN",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Tolosa Paz",
+    "diputado_nombre": "Victoria",
+    "diputdo_sexo": "F",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Toniolli",
+    "diputado_nombre": "Eduardo",
+    "diputdo_sexo": "M",
+    "distrito": "SANTA FE",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Torres",
+    "diputado_nombre": "Alejandra",
+    "diputdo_sexo": "F",
+    "distrito": "CORDOBA",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "HACEMOS POR NUESTRO PA\u00cdS"
+  },
+  {
+    "diputado_apellido": "Tortoriello",
+    "diputado_nombre": "Anibal",
+    "diputdo_sexo": "M",
+    "distrito": "RIO NEGRO",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Treffinger",
+    "diputado_nombre": "C\u00e9sar",
+    "diputdo_sexo": "M",
+    "distrito": "CHUBUT",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "LA LIBERTAD AVANZA"
+  },
+  {
+    "diputado_apellido": "Vald\u00e9s",
+    "diputado_nombre": "Eduardo F\u00e9lix",
+    "diputdo_sexo": "M",
+    "distrito": "CIUDAD DE BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Vallejos",
+    "diputado_nombre": "Alfredo",
+    "diputdo_sexo": "M",
+    "distrito": "CORRIENTES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "Vancsik",
+    "diputado_nombre": "Daniel",
+    "diputdo_sexo": "M",
+    "distrito": "MISIONES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "INNOVACI\u00d3N FEDERAL"
+  },
+  {
+    "diputado_apellido": "Vargas Matyi",
+    "diputado_nombre": "Brenda",
+    "diputdo_sexo": "F",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "V\u00e1squez",
+    "diputado_nombre": "Patricia",
+    "diputdo_sexo": "F",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Vega",
+    "diputado_nombre": "Yolanda",
+    "diputdo_sexo": "F",
+    "distrito": "SALTA",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "INNOVACI\u00d3N FEDERAL"
+  },
+  {
+    "diputado_apellido": "Verasay",
+    "diputado_nombre": "Pamela Fernanda",
+    "diputdo_sexo": "F",
+    "distrito": "MENDOZA",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UCR - UNI\u00d3N C\u00cdVICA RADICAL"
+  },
+  {
+    "diputado_apellido": "Vidal",
+    "diputado_nombre": "Mar\u00eda Eugenia",
+    "diputdo_sexo": "F",
+    "distrito": "CIUDAD DE BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Vilca",
+    "diputado_nombre": "Alejandro",
+    "diputdo_sexo": "M",
+    "distrito": "JUJUY",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "PTS - FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD"
+  },
+  {
+    "diputado_apellido": "Villaverde",
+    "diputado_nombre": "Lorena",
+    "diputdo_sexo": "F",
+    "distrito": "RIO NEGRO",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "LA LIBERTAD AVANZA"
+  },
+  {
+    "diputado_apellido": "Volnovich",
+    "diputado_nombre": "Luana",
+    "diputdo_sexo": "F",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Yasky",
+    "diputado_nombre": "Hugo",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Yedlin",
+    "diputado_nombre": "Pablo",
+    "diputdo_sexo": "M",
+    "distrito": "TUCUMAN",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Yeza",
+    "diputado_nombre": "Mart\u00edn",
+    "diputdo_sexo": "M",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "PRO"
+  },
+  {
+    "diputado_apellido": "Yutrovic",
+    "diputado_nombre": "Carolina",
+    "diputdo_sexo": "F",
+    "distrito": "TIERRA DEL FUEGO",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Zabala Chacur",
+    "diputado_nombre": "Natalia",
+    "diputdo_sexo": "F",
+    "distrito": "SAN LUIS",
+    "mandato": "2021-2025",
+    "fecha_jura": "21\/12\/2021",
+    "fecha_inicio": "21\/12\/2021",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Zago",
+    "diputado_nombre": "Oscar",
+    "diputdo_sexo": "M",
+    "distrito": "CIUDAD DE BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "LA LIBERTAD AVANZA"
+  },
+  {
+    "diputado_apellido": "Zapata",
+    "diputado_nombre": "Carlos Ra\u00fal",
+    "diputdo_sexo": "M",
+    "distrito": "SALTA",
+    "mandato": "2021-2025",
+    "fecha_jura": "07\/12\/2021",
+    "fecha_inicio": "10\/12\/2021",
+    "bloque": "AHORA PATRIA"
+  },
+  {
+    "diputado_apellido": "Zaracho",
+    "diputado_nombre": "Natalia",
+    "diputdo_sexo": "F",
+    "distrito": "BUENOS AIRES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  },
+  {
+    "diputado_apellido": "Zulli",
+    "diputado_nombre": "Christian Alejandro",
+    "diputdo_sexo": "M",
+    "distrito": "CORRIENTES",
+    "mandato": "2023-2027",
+    "fecha_jura": "07\/12\/2023",
+    "fecha_inicio": "10\/12\/2023",
+    "bloque": "UNI\u00d3N POR LA PATRIA"
+  }
+]
