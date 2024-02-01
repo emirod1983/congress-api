@@ -1,7 +1,7 @@
 ﻿using congress_api.Models;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json;
+using Newtonsoft.Json.Converters;
 
 namespace congress_api.Controllers
 {
@@ -21,7 +21,7 @@ namespace congress_api.Controllers
         {
             using StreamReader senReader = new("assets/senadores_vigentes.json");
             var senJson = await senReader.ReadToEndAsync();
-            List<ReprCamaraAlta> senResponse = JsonConvert.DeserializeObject<List<ReprCamaraAlta>>(senJson) ?? [];
+            List<ReprCamaraAlta> senResponse = JsonConvert.DeserializeObject<List<ReprCamaraAlta>>(senJson, new IsoDateTimeConverter { DateTimeFormat = "yyyy-MM-dd" }) ?? [];
 
             _context.ReprCamaraAlta.AddRange(senResponse);
             await _context.SaveChangesAsync();
