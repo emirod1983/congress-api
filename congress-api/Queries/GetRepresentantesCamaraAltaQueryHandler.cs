@@ -4,9 +4,9 @@ using MediatR;
 
 namespace congress_api.Queries
 {
-    public class GetRepresentantesCamaraAltaQueryHandler(ICongressRepository repository) : IRequestHandler<GetRepresentantesCamaraAltaQuery, List<ReprCamaraAlta>>
+    public class GetRepresentantesCamaraAltaQueryHandler(ICongressRepository repository) : IRequestHandler<GetRepresentantesCamaraAltaQuery, List<SenadoresVigentes>>
     {
-        public async Task<List<ReprCamaraAlta>> Handle(GetRepresentantesCamaraAltaQuery request, CancellationToken cancellationToken)
+        public async Task<List<SenadoresVigentes>> Handle(GetRepresentantesCamaraAltaQuery request, CancellationToken cancellationToken)
         {
             return await repository.GetSenadores();
         }

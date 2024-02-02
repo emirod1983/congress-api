@@ -11,7 +11,7 @@ namespace congress_api.Controllers
     public class CamaraBajaController(IMediator mediator, CongressDbContext context) : ControllerBase
     {
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<ReprCamaraBaja>>> GetRepresentatives()
+        public async Task<ActionResult<IEnumerable<DiputadosVigentes>>> GetRepresentatives()
         {
             var query = new GetRepresentantesCamaraBajaQuery();
 

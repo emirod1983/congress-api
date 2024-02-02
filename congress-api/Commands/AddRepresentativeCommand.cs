@@ -5,9 +5,9 @@ namespace congress_api.Commands
 {
     public class AddRepresentativeCommand : IRequest<string>
     {
-        public ReprCamaraAlta Representante { get; }
+        public SenadoresVigentes Representante { get; }
 
-        public AddRepresentativeCommand(ReprCamaraAlta representante)
+        public AddRepresentativeCommand(SenadoresVigentes representante)
         {
             this.Representante = representante;
         }

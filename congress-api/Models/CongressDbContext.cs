@@ -9,7 +9,7 @@ namespace congress_api.Models
         {
         }
 
-        public DbSet<ReprCamaraAlta> ReprCamaraAlta { get; set; }
-        public DbSet<ReprCamaraBaja> ReprCamaraBaja { get; set; }
+        public DbSet<SenadoresVigentes> SenadoresVigentes { get; set; }
+        public DbSet<DiputadosVigentes> DiputadosVigentes { get; set; }
     }
 }

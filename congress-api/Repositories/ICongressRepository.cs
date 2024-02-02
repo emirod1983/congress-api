@@ -4,8 +4,8 @@ namespace congress_api.Repositories
 {
     public interface ICongressRepository
     {
-        Task<List<ReprCamaraAlta>> GetSenadores();
-        Task<string> AddSenador(ReprCamaraAlta representative);
-        Task<List<ReprCamaraBaja>> GetDiputados();
+        Task<List<SenadoresVigentes>> GetSenadores();
+        Task<string> AddSenador(SenadoresVigentes representative);
+        Task<List<DiputadosVigentes>> GetDiputados();
     }
 }

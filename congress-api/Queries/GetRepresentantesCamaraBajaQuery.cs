@@ -3,7 +3,7 @@ using MediatR;
 
 namespace congress_api.Queries
 {
-    public class GetRepresentantesCamaraBajaQuery : IRequest<List<ReprCamaraBaja>>
+    public class GetRepresentantesCamaraBajaQuery : IRequest<List<DiputadosVigentes>>
     {
     }
 }

@@ -12,22 +12,22 @@ namespace congress_api.Repositories
             _context = context;
         }
 
-        public async Task<List<ReprCamaraAlta>> GetSenadores()
+        public async Task<List<SenadoresVigentes>> GetSenadores()
         {
-            return await _context.ReprCamaraAlta.ToListAsync();
+            return await _context.SenadoresVigentes.ToListAsync();
         }
 
-        public async Task<string> AddSenador(ReprCamaraAlta representative)
+        public async Task<string> AddSenador(SenadoresVigentes representative)
         {
-            _context.ReprCamaraAlta.Add(representative);
+            _context.SenadoresVigentes.Add(representative);
             await _context.SaveChangesAsync();
 
             return representative.Id;
         }
 
-        public async Task<List<ReprCamaraBaja>> GetDiputados()
+        public async Task<List<DiputadosVigentes>> GetDiputados()
         {
-            return await _context.ReprCamaraBaja.ToListAsync();
+            return await _context.DiputadosVigentes.ToListAsync();
         }
     }
 }

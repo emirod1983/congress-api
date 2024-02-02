@@ -10,8 +10,8 @@ namespace congress_api.Queries
     {
         public async Task<Unit> Handle(CreateSchemaQuery request, CancellationToken cancellationToken)
         {
-            await ReadAndSaveEntitiesAsync<ReprCamaraAlta>("assets/senadores_vigentes.json", context.ReprCamaraAlta);
-            await ReadAndSaveEntitiesAsync<ReprCamaraBaja>("assets/diputados_vigentes.json", context.ReprCamaraBaja);
+            await ReadAndSaveEntitiesAsync<SenadoresVigentes>("assets/senadores_vigentes.json", context.SenadoresVigentes);
+            await ReadAndSaveEntitiesAsync<DiputadosVigentes>("assets/diputados_vigentes.json", context.DiputadosVigentes);
 
             return Unit.Value;
         }

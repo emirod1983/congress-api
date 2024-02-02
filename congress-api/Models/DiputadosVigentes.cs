@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace congress_api.Models
 {
-    public class ReprCamaraBaja
+    public class DiputadosVigentes
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]

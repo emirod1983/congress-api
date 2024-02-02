@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace congress_api.Models
 {
-    public class ReprCamaraAlta
+    public class SenadoresVigentes
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]

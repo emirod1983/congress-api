@@ -11,7 +11,7 @@ namespace congress_api.Controllers
     public class CamaraAltaController(IMediator mediator) : ControllerBase
     {
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<ReprCamaraAlta>>> GetRepresentatives()
+        public async Task<ActionResult<IEnumerable<SenadoresVigentes>>> GetRepresentatives()
         {
             var query = new GetRepresentantesCamaraAltaQuery();
 
@@ -19,7 +19,7 @@ namespace congress_api.Controllers
         }
 
         [HttpPost("Representante")]
-        public async Task<ActionResult<ReprCamaraAlta>> AddRepresentative(ReprCamaraAlta representante, CancellationToken cancellationToken)
+        public async Task<ActionResult<SenadoresVigentes>> AddRepresentative(SenadoresVigentes representante, CancellationToken cancellationToken)
         {
             var command = new AddRepresentativeCommand(representante);
 
