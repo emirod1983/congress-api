@@ -13,7 +13,7 @@ namespace congress_api.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<ReprCamaraAlta>>> GetRepresentatives()
         {
-            var query = new GetRepresentativesQuery();
+            var query = new GetRepresentantesCamaraAltaQuery();
 
             return Ok(await mediator.Send(query));
         }

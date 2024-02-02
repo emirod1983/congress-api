@@ -6,26 +6,19 @@ namespace congress_api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class CamaraBajaController : ControllerBase
+    public class CamaraBajaController(CongressDbContext context) : ControllerBase
     {
-        private readonly CongressDbContext _context;
-
-        public CamaraBajaController(CongressDbContext context)
-        {
-            _context = context;
-        }
-
         [HttpGet]
         public async Task<ActionResult<IEnumerable<ReprCamaraBaja>>> GetRepresentatives()
         {
-            return await _context.ReprCamaraBaja.ToListAsync();
+            return await context.ReprCamaraBaja.ToListAsync();
         }
 
         [HttpPost("Representante")]
         public async Task<ActionResult<ReprCamaraBaja>> AddRepresentative(ReprCamaraBaja representative)
         {
-            _context.ReprCamaraBaja.Add(representative);
-            await _context.SaveChangesAsync();
+            context.ReprCamaraBaja.Add(representative);
+            await context.SaveChangesAsync();
 
             return CreatedAtAction(nameof(ReprCamaraBaja), new { id = representative.Id }, representative);
         }
