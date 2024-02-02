@@ -12,9 +12,14 @@ namespace congress_api.Repositories
             _context = context;
         }
 
-        public async Task<List<SenadoresVigentes>> GetSenadores()
+        public async Task<List<SenadoresVigentes>> GetSenadoresVigentes()
         {
             return await _context.SenadoresVigentes.ToListAsync();
+        }
+
+        public async Task<List<SenadoresHistoricos>> GetSenadoresHistoricos()
+        {
+            return await _context.SenadoresHistoricos.ToListAsync();
         }
 
         public async Task<string> AddSenador(SenadoresVigentes representative)

@@ -8,7 +8,7 @@ namespace congress_api.Queries
     {
         public async Task<List<SenadoresVigentes>> Handle(GetRepresentantesCamaraAltaQuery request, CancellationToken cancellationToken)
         {
-            return await repository.GetSenadores();
+            return await repository.GetSenadoresVigentes();
         }
     }
 }

@@ -10,6 +10,7 @@ namespace congress_api.Models
         }
 
         public DbSet<SenadoresVigentes> SenadoresVigentes { get; set; }
+        public DbSet<SenadoresHistoricos> SenadoresHistoricos { get; set; }
         public DbSet<DiputadosVigentes> DiputadosVigentes { get; set; }
     }
 }

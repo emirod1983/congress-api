@@ -10,8 +10,9 @@ namespace congress_api.Queries
     {
         public async Task<Unit> Handle(CreateSchemaQuery request, CancellationToken cancellationToken)
         {
-            await ReadAndSaveEntitiesAsync<SenadoresVigentes>("assets/senadores_vigentes.json", context.SenadoresVigentes);
-            await ReadAndSaveEntitiesAsync<DiputadosVigentes>("assets/diputados_vigentes.json", context.DiputadosVigentes);
+            await ReadAndSaveEntitiesAsync("assets/senadores_vigentes.json", context.SenadoresVigentes);
+            await ReadAndSaveEntitiesAsync("assets/senadores_historicos.json", context.SenadoresHistoricos);
+            await ReadAndSaveEntitiesAsync("assets/diputados_vigentes.json", context.DiputadosVigentes);
 
             return Unit.Value;
         }
@@ -23,7 +24,7 @@ namespace congress_api.Queries
                 var json = await reader.ReadToEndAsync();
                 var entities = JsonConvert.DeserializeObject<List<T>>(json);
 
-                if (entities != null && entities.Any())
+                if (entities != null && entities.Count != 0)
                 {
                     await dbSet.AddRangeAsync(entities);
                     await context.SaveChangesAsync();
