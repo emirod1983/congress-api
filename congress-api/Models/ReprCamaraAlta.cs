@@ -28,13 +28,17 @@ namespace congress_api.Models
         [JsonProperty("PARTIDO O ALIANZA")]
         public string? PartidoAlianza { get; set; }
         [JsonConverter(typeof(CustomDateTimeConverter))]
-        public required DateTime? D_Legal { get; set; }
+        [JsonProperty("D_LEGAL")]
+        public required DateOnly? DesignacionLegal { get; set; }
         [JsonConverter(typeof(CustomDateTimeConverter))]
-        public required DateTime? C_Legal { get; set; }
+        [JsonProperty("C_LEGAL")]
+        public required DateOnly? CeseLegal { get; set; }
         [JsonConverter(typeof(CustomDateTimeConverter))]
-        public required DateTime? D_Real { get; set; }
+        [JsonProperty("D_REAL")]
+        public required DateOnly? DesignacionReal { get; set; }
         [JsonConverter(typeof(CustomDateTimeConverter))]
-        public required DateTime? C_Real { get; set; }
+        [JsonProperty("C_REAL")]
+        public required DateOnly? CeseReal { get; set; }
         [MaxLength(100)]
         public string? Email { get; set; }
         [MaxLength(100)]

@@ -6,7 +6,7 @@ public class CustomDateTimeConverter : DateTimeConverterBase
     public override object? ReadJson(JsonReader reader, Type objectType, object? existingValue, JsonSerializer serializer)
     {
         string dateString = (string)reader?.Value;
-        if (DateTime.TryParse(dateString, out DateTime result))
+        if (DateOnly.TryParse(dateString, out DateOnly result))
         {
             return result;
         }

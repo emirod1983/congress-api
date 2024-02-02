@@ -8,21 +8,14 @@ namespace congress_api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class CamaraAltaController : ControllerBase
+    public class CamaraAltaController(IMediator mediator) : ControllerBase
     {
-        private readonly IMediator _mediator;
-
-        public CamaraAltaController(IMediator mediator)
-        {
-            _mediator = mediator;
-        }
-
         [HttpGet]
         public async Task<ActionResult<IEnumerable<ReprCamaraAlta>>> GetRepresentatives()
         {
             var query = new GetRepresentativesQuery();
 
-            return Ok(await _mediator.Send(query));
+            return Ok(await mediator.Send(query));
         }
 
         [HttpPost("Representante")]
@@ -30,7 +23,7 @@ namespace congress_api.Controllers
         {
             var command = new AddRepresentativeCommand(representante);
 
-            return Ok(await _mediator.Send(command, cancellationToken));
+            return Ok(await mediator.Send(command, cancellationToken));
         }
     }
 }
