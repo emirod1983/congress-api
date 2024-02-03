@@ -5,6 +5,11 @@ public class CustomDateTimeConverter : DateTimeConverterBase
 {
     public override object? ReadJson(JsonReader reader, Type objectType, object? existingValue, JsonSerializer serializer)
     {
+        if (reader?.Value is DateTime)
+        {
+            return DateOnly.FromDateTime((DateTime)reader.Value);
+        }
+
         string dateString = (string)reader?.Value;
         if (DateOnly.TryParse(dateString, out DateOnly result))
         {

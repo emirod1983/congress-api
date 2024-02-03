@@ -13,6 +13,7 @@ namespace congress_api.Queries
             await ReadAndSaveEntitiesAsync("assets/senadores_vigentes.json", context.SenadoresVigentes);
             await ReadAndSaveEntitiesAsync("assets/senadores_historicos.json", context.SenadoresHistoricos);
             await ReadAndSaveEntitiesAsync("assets/diputados_vigentes.json", context.DiputadosVigentes);
+            await ReadAndSaveEntitiesAsync("assets/diputados_historicos.json", context.DiputadosHistoricos);
 
             return Unit.Value;
         }
