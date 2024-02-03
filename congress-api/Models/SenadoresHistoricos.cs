@@ -9,7 +9,7 @@ namespace congress_api.Models
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public string? IdRepresentante { get; set; }
+        public int IdRepresentante { get; set; }
 
         [Required]
         public required string Id { get; set; }
@@ -19,7 +19,6 @@ namespace congress_api.Models
         [JsonProperty("SENADOR")]
         public required string NombreCompleto { get; set; }
 
-        [Required]
         [MaxLength(100)]
         public required string Reemplazo { get; set; }
 
@@ -27,10 +26,12 @@ namespace congress_api.Models
         [MaxLength(100)]
         public required string Provincia { get; set; }
 
+        [Required]
         [MaxLength(100)]
         [JsonProperty("PARTIDO POLITICO O ALIANZA")]
         public string? PartidoAlianza { get; set; }
 
+        [Required]
         [JsonConverter(typeof(CustomDateTimeConverter))]
         [JsonProperty("INICIO PERIODO LEGAL")]
         public required DateOnly? DesignacionLegal { get; set; }

@@ -8,7 +8,7 @@ namespace congress_api.Models
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public string? IdRepresentante { get; set; }
+        public int IdRepresentante { get; set; }
 
         [Required]
         public required string Id { get; set; }
